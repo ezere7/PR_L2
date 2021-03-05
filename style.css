@@ -28,25 +28,7 @@ body {
     border-top: solid;
 }
 
-.col {
-    border-right: solid;
-    border-bottom: solid;
-    border-left: solid;
-}
-
-.col-4 {
-    border-bottom: solid;
-    border-right: solid;
-    border-left: solid;
-}
-.col-8 {
-    border-left: solid;
-    border-bottom: solid;
-    border-right: solid;
-}
-
-.col-6 {
-    border-bottom: solid;
-    border-right: solid;
-    border-left: solid;
+.img {
+	width: 100px;
+	height: auto;
 }
